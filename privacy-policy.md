@@ -4,7 +4,7 @@ _Last updated / Senast uppdaterad: 2025-06-17_
 
 ---
 
-## 🇬🇧 English Version
+## English
 
 This app respects your privacy and is committed to protecting your personal data. Here's how we handle your information:
 
@@ -30,7 +30,7 @@ This app respects your privacy and is committed to protecting your personal data
 
 ---
 
-## 🇸🇪 Svensk Version
+## Svenska
 
 Denna app respekterar din integritet och är engagerad i att skydda dina personuppgifter. Här är hur vi hanterar din information:
 
